@@ -4,6 +4,8 @@ A fully local AI assistant stack running on your own hardware, no cloud, no data
 Combines LM Studio, Open WebUI, and SearXNG to give you a private ChatGPT-like experience
 with real-time web search capabilities.
 
+![Demo](demo.gif)
+
 ## Stack
 
 | Component | Role |
