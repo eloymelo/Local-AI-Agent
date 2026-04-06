@@ -1,0 +1,13 @@
+use_default_settings: true
+
+general:
+  enable_metrics: true
+
+server:
+  secret_key: "your_secret_key"
+  method: "GET"
+
+search:
+  formats:
+    - html
+    - json
