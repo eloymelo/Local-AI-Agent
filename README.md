@@ -94,8 +94,3 @@ Open WebUI is now available at `http://localhost:3000`
 - **Vision**: Gemma-4-26B
 
 ---
-
-## Docs
-
-- [Full Setup Guide](docs/setup.md)
-- [Troubleshooting](docs/troubleshooting.md)
